@@ -1,0 +1,29 @@
+.container-button{
+  margin-top: 1em;
+  .btn{
+    border-radius: 4px;
+    font-size: 18px;
+    font-family: $font-family-DosisRegular;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 18px 50px;
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &-whatsapp{
+      color: $green;
+      background-color: transparent;
+      border: 1px solid $green;
+    }
+    &:focus{
+      outline: none;
+      box-shadow: none;
+    }
+    &:active{
+      outline: none;
+      box-shadow: none;
+    }
+  }
+}

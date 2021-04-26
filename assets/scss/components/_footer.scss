@@ -1,0 +1,78 @@
+footer {
+  margin-top: 10em;
+  margin-bottom: 2em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  .container-social-media {
+    margin-bottom: 1.5em;
+    .social-media {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .card-social {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 .8em;
+        .url-social {
+          width: 100%;
+          .icon-social {
+            width: 57%;
+          }
+        }
+        &:first-child{
+          margin-left: 0;
+        }
+        &:last-child{
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  
+  .data-footer {
+    outline: 2px dashed $green;
+    padding: .5em 2em;
+    max-width: 300px;
+    width: 300px;
+    .description-one{
+      font-family: $font-family-DosisRegular;
+      color: $green;
+      margin: 0;
+      line-height: 1.7;
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  footer{
+    .container-social-media{
+      .social-media{
+        position: fixed;
+        left: 1em;
+        bottom: 1px;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-wrap: nowrap;
+        align-items: center;
+        flex-direction: column;
+        &::after{
+          content: "";
+          display: block;
+          width: 2px;
+          height: 90px;
+          margin: 0px auto;
+          background-color: $gray-write;
+        }
+        .card-social{
+          padding: 0;
+            margin: 1em 0;
+        }
+      }
+    }
+  }
+}

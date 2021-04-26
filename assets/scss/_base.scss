@@ -1,0 +1,77 @@
+*,
+*:before,
+*:after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// # Colores
+$black-full: #0A192F;
+$green: #64FFDA;
+$gray-write: #CCD6F6;
+$gray-black: #8892B0;
+$black-secondary: #112240;
+
+@font-face {
+  font-family: "DosisBold";
+  src: local("DosisBold"), url('./../fonts/static/Dosis-Bold.ttf') format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "DosisSemiBold";
+  src: local("DosisSemiBold"), url('./../fonts/static/Dosis-SemiBold.ttf') format("truetype");
+  font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+  font-family: "DosisExtraBold";
+  src: local("DosisExtraBold"), url('./../fonts/static/Dosis-ExtraBold.ttf') format("truetype");
+  font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+  font-family: "DosisLight";
+  src: local("DosisLight"), url('./../fonts/static/Dosis-Light.ttf') format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "DosisExtraLight";
+  src: local("DosisExtraLight"), url('./../fonts/static/Dosis-ExtraLight.ttf') format("truetype");
+  font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+  font-family: "DosisMedium";
+  src: local("DosisMedium"), url('./../fonts/static/Dosis-Medium.ttf') format("truetype");
+  font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+  font-family: "DosisRegular";
+  src: local("DosisRegular"), url('./../fonts/static/Dosis-Regular.ttf') format("truetype");
+  font-style: normal;
+	font-weight: normal;
+}
+
+// #Tipografia
+$font-family-DosisLight:  'DosisLight', sans-serif !default;
+$font-family-DosisExtraLight:  'DosisExtraLight', sans-serif !default;
+$font-family-DosisRegular:  'DosisRegular', sans-serif !default;
+$font-family-DosisMedium:  'DosisMedium', sans-serif !default;
+$font-family-DosisSemiBold:  'DosisSemiBold', sans-serif !default;
+$font-family-DosisBold:  'DosisBold', sans-serif !default;
+$font-family-DosisExtraBold:  'DosisExtraBold', sans-serif !default;
+
+
+body{
+  background-color: $black-full;
+}
