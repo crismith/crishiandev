@@ -77,7 +77,7 @@
               <ul class="skills">
                 <li class="skill">
                   <span class="text-skill">
-                    Wordpress
+                    WordPress
                   </span>
                 </li>
 
@@ -206,7 +206,7 @@
                   JavaScript.js
                 </span>
                 <span class="technology">
-                  Wordpress
+                  WordPress
                 </span>
               </div>
             </div>
@@ -279,7 +279,7 @@
                   JavaScript.js
                 </span>
                 <span class="technology">
-                  Wordpress
+                  WordPress
                 </span>
               </div>
 
@@ -314,7 +314,7 @@
                   JavaScript.js
                 </span>
                 <span class="technology">
-                  Wordpress
+                  WordPress
                 </span>
               </div>
 
