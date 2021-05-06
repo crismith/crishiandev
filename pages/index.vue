@@ -13,7 +13,7 @@
       </h3>
 
       <p class="description-cover-page">
-        Soy un desarrollador de software freelance que vivo en Perú 🇵🇪 especializado en la creación de sitios webs, aplicaciones y todo lo demás. Actualmente estoy trabajando como <strong class="bold-strong">Freelancer</strong>
+        Soy desarrollador de software que vivo en Perú 🇵🇪 especializado en la creación de sitios webs, aplicaciones y todo lo demás. Actualmente estoy trabajando como <strong class="bold-strong">Freelancer</strong>
       </p>
 
       <div class="container-button">
@@ -35,11 +35,11 @@
           <div class="container-description-about-me">
             <p class="description-about-me">
               ¡Hola! Soy Cristhian Smith, comencé mi viaje como Developer en el instituto <strong class="bold-strong">ISMEM</strong>.
-              Donde he disfrutado el aprendizaje y el crear cosas que viven en internet, ya sean sitios web, aplicaciones o cualquier cosa, al terminar el instituto fui llamado por una agencia para unirme a su equipo de desarrollo como <strong class="bold-strong">Full Stack Jr</strong>.
+              Donde he disfrutado el aprendizaje y el crear cosas que viven en internet, ya sean sitios web, aplicaciones o cualquier cosa, al finalizar el instituto fui llamado por una agencia para unirme a su equipo de desarrollo como <strong class="bold-strong">Full-Stack Jr</strong>.
             </p>
             <p class="description-about-me">
               Actualmente tengo 26 años y con más de 4 años de experiencia profesional donde he trabajo en una amplia variedad de proyectos interesantes y significativos a diario. Llegue a trabajar en <strong class="bold-strong">Startups, Agencias digitales</strong> y <strong class="bold-strong">Proyectos freelance</strong>.
-              Me gusta apoyar en el proceso de crecimiento de una marca o empresa y para ello siempre busco entender al <strong class="bold-strong">100%</strong> de la idea de negocio.
+              Me gusta apoyar en cuanto al proceso de crecimiento de una marca o empresa y para ello siempre busco entender al <strong class="bold-strong">100%</strong> de la idea de negocio.
             </p>
             <p class="description-about-me">
               Me apasiona estar siempre aprendiendo más sobre desarrollo web, desarrollo de aplicaciones, marketing digital, experiencia de usuario y todo lo que se necesita para impulsar a una empresa o negocio.
@@ -126,7 +126,7 @@
                 Landing Page
               </h5>
               <p class="description-service">
-                Una página web  preliminar o pagina de aterrizaje  donde queremos destacar algo en especial, ya sea un producto, o alguna novedad o promoción de un producto.  
+                Una página web  preliminar o pagina de aterrizaje  donde queremos destacar algo en especial, ya sea un producto, novedad o promoción de un producto.
               </p>
             </div>
           </div>
@@ -137,7 +137,7 @@
                 Tiendas Virtuales
               </h5>
               <p class="description-service">
-                Una tienda virtual (o tienda online) es un sitio web donde los vendedores ponen a disposición de sus clientes los productos o servicios.
+                Una tienda virtual o tienda online es un sitio web donde los vendedores ponen a disposición de sus clientes los productos o servicios.
               </p>
             </div>
           </div>
@@ -171,7 +171,7 @@
       <div class="container-projects">
         <h4 class="title-section">
           <span class="number-title">
-            01.  
+            03.  
           </span>
           Proyectos que he construido
         </h4>
@@ -186,7 +186,7 @@
                25/03/2021
               </h5>
               <div class="open-title">
-                <a href="" class="url-proyect">
+                <a href="https://despertandoelser.com/" class="url-proyect" target="_blank">
                   <img src="@/assets/images/link.svg" class="image-url" alt="">
                   Despertando el ser
                 </a>
@@ -221,7 +221,7 @@
                 15/01/2021
               </h5>
               <div class="open-title">
-                <a href="" class="url-proyect">
+                <a href="https://www.monkeyfitpass.com/" class="url-proyect" target="_blank">
                   <img src="@/assets/images/link.svg" class="image-url" alt="">
                   MonkeyFit
                 </a>
@@ -259,7 +259,7 @@
                 20/06/2020
               </h5>
               <div class="open-title">
-                <a href="" class="url-proyect">
+                <a href="http://haute.pe/" class="url-proyect" target="_blank">
                   <img src="@/assets/images/link.svg" class="image-url" alt="">
                   Haute
                 </a>
@@ -295,7 +295,7 @@
                 30/05/2020
               </h5>
               <div class="open-title">
-                <a href="" class="url-proyect">
+                <a href="http://veryperu.com/" class="url-proyect" target="_blank">
                   <img src="@/assets/images/link.svg" class="image-url" alt="">
                   Veryperu
                 </a>
