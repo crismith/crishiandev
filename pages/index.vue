@@ -103,8 +103,8 @@
           </div>
           <div class="container-image-about-me">
             <div class="card-image-me">
-              <img src="@/assets/images/yo.png" class="my-photo" alt="">
-              <img src="@/assets/images/mifoto.png" class="my-photo-desktop" alt="">
+              <img src="@/assets/images/yo.webp" class="my-photo" alt="">
+              <img src="@/assets/images/mifoto.webp" class="my-photo-desktop" alt="">
             </div>
           </div>
         </div>
@@ -179,7 +179,9 @@
         <div class="container-my-projects">
           <div class="card-projects">
             <div class="container-image-proyect">
-              <img src="@/assets/images/portafolio/despertando.webp" class="image-projects" alt="">
+              <a href="">
+                <img src="@/assets/images/portafolio/despertando.webp" class="image-projects" alt="">
+              </a>
             </div>
             <div class="data-proyect">
               <h5 class="type-proyect">
@@ -320,78 +322,6 @@
 
             </div>
           </div>
-
-          <!-- <div class="card-projects">
-            <div class="container-image-proyect">
-              <img src="@/assets/images/octoprofile.png" class="image-projects" alt="">
-            </div>
-            <div class="data-proyect">
-              <h5 class="type-proyect">
-                Featured Project
-              </h5>
-              <div class="open-title">
-                <a href="" class="url-proyect">
-                  <img src="@/assets/images/link.svg" class="image-url" alt="">
-                  OctoProfile
-                </a>
-
-              </div>
-              <p class="description-proyect">
-                A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
-              </p>
-              <div class="technological-tools">
-                <span class="technology">
-                  Next.js
-                </span>
-                <span class="technology">
-                  Next.js
-                </span>
-                <span class="technology">
-                  Next.js
-                </span>
-                <span class="technology">
-                  Next.js
-                </span>
-              </div>
-
-            </div>
-          </div>
-
-          <div class="card-projects">
-            <div class="container-image-proyect">
-              <img src="@/assets/images/octoprofile.png" class="image-projects" alt="">
-            </div>
-            <div class="data-proyect">
-              <h5 class="type-proyect">
-                Featured Project
-              </h5>
-              <div class="open-title">
-                <a href="" class="url-proyect">
-                  <img src="@/assets/images/link.svg" class="image-url" alt="">
-                  OctoProfile
-                </a>
-
-              </div>
-              <p class="description-proyect">
-                A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
-              </p>
-              <div class="technological-tools">
-                <span class="technology">
-                  Next.js
-                </span>
-                <span class="technology">
-                  Next.js
-                </span>
-                <span class="technology">
-                  Next.js
-                </span>
-                <span class="technology">
-                  Next.js
-                </span>
-              </div>
-
-            </div>
-          </div> -->
         </div>
       </div>
     </section>
