@@ -178,10 +178,8 @@
 
         <div class="container-my-projects">
           <div class="card-projects">
-            <div class="container-image-proyect">
-              <a href="">
-                <img src="@/assets/images/portafolio/despertando.webp" class="image-projects" alt="">
-              </a>
+            <div class="container-image-proyect" @click="openProyect('despertandoelser.com')">
+              <img src="@/assets/images/portafolio/despertando.webp" class="image-projects" alt="">
             </div>
             <div class="data-proyect">
               <h5 class="type-proyect">
@@ -215,7 +213,7 @@
           </div>
 
           <div class="card-projects">
-            <div class="container-image-proyect">
+            <div class="container-image-proyect" @click="openProyect('monkeyfitpass.com')">
               <img src="@/assets/images/portafolio/monkeyfit.webp" class="image-projects" alt="">
             </div>
             <div class="data-proyect">
@@ -253,7 +251,7 @@
           </div>
 
           <div class="card-projects">
-            <div class="container-image-proyect">
+            <div class="container-image-proyect" @click="openProyect('haute.pe')">
               <img src="@/assets/images/portafolio/haute.webp" class="image-projects" alt="">
             </div>
             <div class="data-proyect">
@@ -289,7 +287,7 @@
           </div>
 
           <div class="card-projects">
-            <div class="container-image-proyect">
+            <div class="container-image-proyect" @click="openProyect('veryperu.com')">
               <img src="@/assets/images/portafolio/very.webp" class="image-projects" alt="">
             </div>
             <div class="data-proyect">
@@ -350,3 +348,14 @@
     </section>
   </div>
 </template>
+
+<script>
+  export default {
+    methods: {
+      openProyect(name){
+        window.open(`http://${name}`);
+        // alert('HII!!');
+      }
+    }
+  }
+</script>
