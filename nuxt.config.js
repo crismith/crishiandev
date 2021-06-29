@@ -19,9 +19,9 @@ export default {
       { hid: 'twitter:description' ,name: 'twitter:description', content: 'Portfolio - Cristian Zeña. Programador web, programador Frontend - Lima - Peru.' },
       { hid: 'og:title' ,name: 'og:title', content: 'Cristhian Smith - Portafolio - Freelance' },
       { hid: 'og:type' ,name: 'og:type', content: 'Portafolio Web Cristhian Smith' },
-      { hid: 'og:url' ,name: 'og:url', content: 'https://crismith.github.io/dev/' },
+      { hid: 'og:url' ,name: 'og:url', content: 'https://cristhiandev.netlify.app/_nuxt/img/mifoto.0d82947.webp' },
+      { hid: 'og:image' ,name: 'og:url', content: 'https://crismith.github.io/dev/' },
       { hid: 'og:description' ,name: 'og:description', content: 'Portfolio personal de Cristian Zeña, Programador web en Peru.' },
-
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
@@ -35,7 +35,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    { src: '~/plugins/vue-fb-customer-chat.js', ssr: false }
+    // { src: '~/plugins/vue-fb-customer-chat.js', ssr: false }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
