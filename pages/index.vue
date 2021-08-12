@@ -5,7 +5,7 @@
         Hola, mi nombre es 
       </h1>
       <h2 class="name-cover-page">
-        CRISTHIAN SMITH.
+        CRISTHIAN SMITH. 
       </h2>
 
       <h3 class="subTitle-cover-page">
