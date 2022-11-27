@@ -6,7 +6,7 @@
           <a
             target="_blank"
             class="url-social"
-            href="https://www.instagram.com/czena94/"
+            href="https://www.instagram.com/cristhiandev.pe/"
           >
             <img
               src="@/assets/images/social/instagram.svg"
@@ -20,7 +20,7 @@
           <a
             target="_blank"
             class="url-social"
-            href="https://www.facebook.com/Cdevzm"
+            href="https://www.facebook.com/cristhiandevpe"
           >
             <img
               src="@/assets/images/social/facebook.svg"
