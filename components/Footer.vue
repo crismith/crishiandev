@@ -11,7 +11,7 @@
             <img
               src="@/assets/images/social/instagram.svg"
               class="icon-social"
-              alt=""
+              alt="instagram"
             />
           </a>
         </div>
@@ -25,7 +25,7 @@
             <img
               src="@/assets/images/social/facebook.svg"
               class="icon-social"
-              alt=""
+              alt="facebook"
             />
           </a>
         </div>
@@ -39,7 +39,7 @@
             <img
               src="@/assets/images/social/linkedin.svg"
               class="icon-social"
-              alt=""
+              alt="linkedin"
             />
           </a>
         </div>
@@ -53,7 +53,7 @@
             <img
               src="@/assets/images/social/twitter.svg"
               class="icon-social"
-              alt=""
+              alt="twitter"
             />
           </a>
         </div>
@@ -67,7 +67,7 @@
             <img
               src="@/assets/images/social/github.svg"
               class="icon-social"
-              alt=""
+              alt="github"
             />
           </a>
         </div>

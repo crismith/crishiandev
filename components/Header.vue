@@ -2,9 +2,9 @@
   <header class="header">
     <nav class="navbar-mobile navbar navbar-light bg-light d-flex">
       <a class="url-logo navbar-brand" href="/">
-        <img class="img-logo" src="~/assets/images/logo.svg" />
+        <img alt="logo" class="img-logo" src="~/assets/images/logo.svg" />
       </a>
-      <img @click="showMain" class="image-main" src="~/assets/images/menu.svg" />
+      <img alt="menu" @click="showMain" class="image-main" src="~/assets/images/menu.svg" />
       <div class="container-menu-desktop">
         <ul class="list-menu">
           <li class="item-menu">
@@ -62,7 +62,7 @@
       <div class="overflow-menu" @click="hideMain"></div>
       <div class="menu">
         <div class="div-close">
-          <img @click="hideMain" class="img-close" src="~/assets/images/close.svg" />
+          <img alt="close" @click="hideMain" class="img-close" src="~/assets/images/close.svg" />
         </div>
         <div class="container-menu">
           <ul class="list-menu">

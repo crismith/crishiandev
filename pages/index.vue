@@ -103,8 +103,8 @@
           </div>
           <div class="container-image-about-me">
             <div class="card-image-me">
-              <img src="@/assets/images/yo.webp" class="my-photo" alt="">
-              <img src="@/assets/images/mifoto.webp" class="my-photo-desktop" alt="">
+              <img src="@/assets/images/yo.webp" class="my-photo" alt="yo">
+              <img src="@/assets/images/mifoto.webp" class="my-photo-desktop" alt="photo">
             </div>
           </div>
         </div>
@@ -179,7 +179,7 @@
         <div class="container-my-projects">
           <div class="card-projects">
             <div class="container-image-proyect" @click="openProyect('despertandoelser.com')">
-              <img src="@/assets/images/portafolio/despertando.webp" class="image-projects" alt="">
+              <img src="@/assets/images/portafolio/despertando.webp" class="image-projects" alt="despertandoelser">
             </div>
             <div class="data-proyect">
               <h5 class="type-proyect">
@@ -187,7 +187,7 @@
               </h5>
               <div class="open-title">
                 <a href="https://despertandoelser.com/" class="url-proyect" target="_blank">
-                  <img src="@/assets/images/link.svg" class="image-url" alt="">
+                  <img src="@/assets/images/link.svg" class="image-url" alt="despertandoelser">
                   Despertando el ser
                 </a>
 
@@ -214,7 +214,7 @@
 
           <div class="card-projects">
             <div class="container-image-proyect" @click="openProyect('monkeyfitpass.com')">
-              <img src="@/assets/images/portafolio/monkeyfit.webp" class="image-projects" alt="">
+              <img src="@/assets/images/portafolio/monkeyfit.webp" class="image-projects" alt="monkeyfit">
             </div>
             <div class="data-proyect">
               <h5 class="type-proyect">
@@ -222,7 +222,7 @@
               </h5>
               <div class="open-title">
                 <a href="https://www.monkeyfitpass.com/" class="url-proyect" target="_blank">
-                  <img src="@/assets/images/link.svg" class="image-url" alt="">
+                  <img src="@/assets/images/link.svg" class="image-url" alt="monkeyfit">
                   MonkeyFit
                 </a>
 
@@ -252,7 +252,7 @@
 
           <div class="card-projects">
             <div class="container-image-proyect" @click="openProyect('haute.pe')">
-              <img src="@/assets/images/portafolio/haute.webp" class="image-projects" alt="">
+              <img src="@/assets/images/portafolio/haute.webp" class="image-projects" alt="haute">
             </div>
             <div class="data-proyect">
               <h5 class="type-proyect">
@@ -260,7 +260,7 @@
               </h5>
               <div class="open-title">
                 <a href="http://haute.pe/" class="url-proyect" target="_blank">
-                  <img src="@/assets/images/link.svg" class="image-url" alt="">
+                  <img src="@/assets/images/link.svg" class="image-url" alt="haute">
                   Haute
                 </a>
 
@@ -288,7 +288,7 @@
 
           <div class="card-projects">
             <div class="container-image-proyect" @click="openProyect('veryperu.com')">
-              <img src="@/assets/images/portafolio/very.webp" class="image-projects" alt="">
+              <img src="@/assets/images/portafolio/very.webp" class="image-projects" alt="veryperu">
             </div>
             <div class="data-proyect">
               <h5 class="type-proyect">
@@ -296,7 +296,7 @@
               </h5>
               <div class="open-title">
                 <a href="http://veryperu.com/" class="url-proyect" target="_blank">
-                  <img src="@/assets/images/link.svg" class="image-url" alt="">
+                  <img src="@/assets/images/link.svg" class="image-url" alt="veryperu">
                   Veryperu
                 </a>
               </div>
@@ -336,9 +336,9 @@
           Ahora me estoy dedicando al desarrollo web de manera freelance al 100% y tengo espacios para poder tener reuniones o conversaciones y asi poder ayudarte armar tu sitio web buscando los mejores objetivos.
         </p>
 
-        <h6 class="why-contact">
+        <h5 class="why-contact">
           ¿Tienes algún negocio que necesite una página web?
-        </h6>
+        </h5>
         <div class="container-button">
           <a href="https://wa.me/51929528840" target="_blank" class="btn btn-whatsapp">
             💌 Conversemos
