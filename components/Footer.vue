@@ -4,6 +4,7 @@
       <div class="social-media">
         <div class="card-social">
           <a
+						aria-label=""
             target="_blank"
             class="url-social"
             href="https://www.instagram.com/cristhiandev.pe/"
@@ -34,7 +35,7 @@
           <a
             target="_blank"
             class="url-social"
-            href="https://www.linkedin.com/in/cristhian-smith-ze%C3%B1a-mas-6324a3103/"
+            href="https://www.linkedin.com/in/cristhian-smith-ze%C3%B1a-mas-cristhiandev-6324a3103/"
           >
             <img
               src="@/assets/images/social/linkedin.svg"
